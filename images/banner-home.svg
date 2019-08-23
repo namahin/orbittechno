@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1920 1081.2" style="enable-background:new 0 0 1920 1081.2;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#F1F1F1;}
+	.st1{fill:url(#SVGID_1_);}
+</style>
+<title>Asset 3</title>
+<g>
+	<g id="XMLID_1_">
+		<path class="st0" d="M1920,0.7v1080H0V0.7H1920z M1604.9,815c230.9-161.7,163-612.6-11.1-690.6c-127.2-57-308.2,86.4-353.3,122.1
+			c-21.2,16.8-295.1,238.9-224,433.6C1082.7,861.3,1420.1,944.4,1604.9,815L1604.9,815z"/>
+	</g>
+	
+		<radialGradient id="SVGID_1_" cx="1369.385" cy="591.785" r="390.2689" gradientTransform="matrix(1 0 0 -1 0 1079.8898)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.1"/>
+		<stop  offset="0.51" style="stop-color:#FFFFFF;stop-opacity:0.56"/>
+		<stop  offset="0.67" style="stop-color:#FFFFFF;stop-opacity:0.68"/>
+		<stop  offset="0.82" style="stop-color:#FFFFFF;stop-opacity:0.77"/>
+		<stop  offset="0.92" style="stop-color:#FFFFFF;stop-opacity:0.8"/>
+	</radialGradient>
+	<path class="st1" d="M1602.5,818.4c-190.5,133.4-538.2,47.7-606.4-139c-73.3-200.7,209-429.6,230.8-446.9
+		c46.5-36.8,233.1-184.6,364.2-125.8C1770.5,187.1,1840.5,651.8,1602.5,818.4z"/>
+</g>
+</svg>
